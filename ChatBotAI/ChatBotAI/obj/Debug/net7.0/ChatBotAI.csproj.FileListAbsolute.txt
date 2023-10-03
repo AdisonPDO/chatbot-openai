@@ -1,0 +1,14 @@
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/bin/Debug/net7.0/ChatBotAI
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/bin/Debug/net7.0/ChatBotAI.deps.json
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/bin/Debug/net7.0/ChatBotAI.runtimeconfig.json
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/bin/Debug/net7.0/ChatBotAI.dll
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/bin/Debug/net7.0/ChatBotAI.pdb
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.AssemblyInfoInputs.cache
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.AssemblyInfo.cs
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.csproj.CoreCompileInputs.cache
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.dll
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/refint/ChatBotAI.dll
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.pdb
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ChatBotAI.genruntimeconfig.cache
+/Users/adisonpereiradeoliveira/Desktop/mytable/chatbot-openai/ChatBotAI/ChatBotAI/obj/Debug/net7.0/ref/ChatBotAI.dll
